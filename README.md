@@ -1,3 +1,11 @@
+# Azure Resource Manager Quickstart Templates
+
+[English](README.md) | [日本語](README.ja.md)
+
+A collection of Azure Resource Manager deployment templates and sample workloads, organized by scenario and deployment scope.
+
+---
+
 # Azure Resource Manager QuickStart Templates
 
 This repo contains all currently available Azure Resource Manager templates contributed by the community. A searchable template index is maintained at [azure.com](https://azure.microsoft.com/documentation/templates).
